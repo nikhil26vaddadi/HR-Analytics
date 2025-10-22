@@ -49,10 +49,4 @@ If you have Tableau Desktop installed, double-click the `.twbx` file to open it 
 - Comparison of **company vs. third-party stages**  
 - Identification of **longest and fastest** onboarding phases  
 
----
-
-## 🧾 Resume Description Example
-> **Project:** HR Onboarding Analytics Dashboard (Tableau)  
-> **Tools Used:** Tableau, Excel  
-> **Summary:** Designed a KPI-driven HR onboarding analytics dashboard to analyze candidate onboarding efficiency, identify process bottlenecks, and visualize stage-wise performance metrics. Shared as a Tableau packaged workbook for recruiters and HR analytics portfolios.
 
